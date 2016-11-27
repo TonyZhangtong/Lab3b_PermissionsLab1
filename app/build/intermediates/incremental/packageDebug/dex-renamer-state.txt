@@ -1,0 +1,7 @@
+#Sat Nov 26 20:14:08 EST 2016
+base.0=E\:\\AndroidStudioProjects\\Lab3b_PermissionsLab1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bead03de6d3d5168a217c636c34092463930dfb4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AndroidStudioProjects\\Lab3b_PermissionsLab1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_03f1920d3aa1e680f0bf5215b51a0e9798b14ac8\\classes.dex
+base.1=E\:\\AndroidStudioProjects\\Lab3b_PermissionsLab1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_03f1920d3aa1e680f0bf5215b51a0e9798b14ac8
+file.0=E\:\\AndroidStudioProjects\\Lab3b_PermissionsLab1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bead03de6d3d5168a217c636c34092463930dfb4\\classes.dex
